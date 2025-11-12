@@ -1,6 +1,7 @@
 # TA3PJK
 
 Link Youtube : https://youtu.be/xP_uCoWejwY?si=K7n5d0g8cWsaMScw 
+Packet Tracer : https://github.com/AlyaNayraSyafiqa/TA3PJK/blob/main/TUGAS%20AKHIR%203_ALYA%20NAYRA%20SYAFIQA_2315061001.pkt 
 
 ### 1. **Membangun Topologi**
 - Hubungkan dua switch (S1 dan S2) menggunakan kabel straight-through pada port FastEthernet0/1.
@@ -35,6 +36,9 @@ Setiap switch dibuat beberapa VLAN berikut:
 - Native VLAN diubah dari default VLAN 1 ke VLAN 1000 agar lebih aman dan tidak bercampur dengan lalu lintas data pengguna.
 
 ### 6. **Pengujian Konektivitas**
+<img width="597" height="706" alt="image" src="https://github.com/user-attachments/assets/ed4c339d-aa5e-4c5a-89b5-553bed869e41" />
+<img width="703" height="122" alt="image" src="https://github.com/user-attachments/assets/c63d7776-3d6e-4b86-a4c2-c21c36bf1f26" />
+
 | Pengujian | Hasil | Penjelasan |
 |------------|--------|-------------|
 | PC-A ke PC-B | Berhasil | Keduanya berada di VLAN 10 (Operations) |
